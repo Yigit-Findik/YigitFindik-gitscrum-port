@@ -18,11 +18,14 @@ The style.css, responsive.css and bootstrap.min.css files is being used and we c
 }
 
 # What is the result of the product
-The end product of this project is creating a one paged CV
+The end product of this project is creating a one paged CV.
+
+# Feedback
+any criticism is welcome and wanted to create the best possible project, anything feedback related goes to my mail (Yigit Findik) yigit8@live.nl.
 
 # How to use
 open the html file and explore!
 
 # Credits and contributors
 
-Thanks to Bart Kuppeveld and Yigit Findik this project is made
+Thanks to Bart Kuppeveld and Yigit Findik this project is made.
