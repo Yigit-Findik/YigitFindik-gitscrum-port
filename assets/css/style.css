@@ -241,6 +241,7 @@ html, body {
 }
 
 .hero h1 {
+    color: red;
     font-size: 46px;
     font-weight: 700;
     margin: 0 0 15px;
@@ -272,6 +273,7 @@ html, body {
 
 .site-section h2,
 .site-section h3 {
+    color: red;
     font-size: 36px;
     margin: 0;
     text-transform: uppercase;
@@ -295,6 +297,7 @@ html, body {
 }
 
 .skill h4 {
+    color: red;
     font-size: 24px;
     text-transform: uppercase;
     margin: 0 0 15px;
@@ -348,6 +351,7 @@ html, body {
 }
 
 .service h4 {
+    color: red;
     margin: 25px 0;
     font-size: 24px;
     font-weight: 700;
@@ -477,6 +481,7 @@ html, body {
 }
 
 .modal-body h4 {
+    color: red;
     font-weight: 700;
 }
 
@@ -503,6 +508,7 @@ html, body {
 }
 
 .section-counters h4 {
+    color: red;
     color: #fff;
     margin: 25px 0 0;
 }
